@@ -1,0 +1,5 @@
+Checked 2026-11-12
+git version 2.44.0.windows.1
+node v24.22.1
+VS Code: not found on PATH or standard install paths.
+Remote repository: not created.

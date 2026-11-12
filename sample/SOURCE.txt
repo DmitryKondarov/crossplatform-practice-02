@@ -1,0 +1,6 @@
+Source: https://github.com/tauri-apps/tauri
+Tag: tauri-v2.12.5
+Downloaded for study; not a standalone build.
+Files README.md,index.html,main.rs,tauri.conf.json originate in examples/helloworld/.
+Other filenames preserve the source path using underscores.
+Source copyright and SPDX identifiers retained.

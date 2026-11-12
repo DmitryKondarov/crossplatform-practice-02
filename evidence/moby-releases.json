@@ -1,0 +1,117 @@
+[
+  {
+    "tag": "docker-v29.9.3",
+    "date": "2026-11-03T22:37:18Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.9.3"
+  },
+  {
+    "tag": "docker-v29.9.2",
+    "date": "2026-10-20T20:51:17Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.9.2"
+  },
+  {
+    "tag": "docker-v29.9.1",
+    "date": "2026-10-14T19:28:37Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.9.1"
+  },
+  {
+    "tag": "docker-v29.9.0",
+    "date": "2026-10-08T21:34:57Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.9.0"
+  },
+  {
+    "tag": "client/v0.6.2",
+    "date": "2026-10-08T20:06:34Z",
+    "url": "https://github.com/moby/moby/releases/tag/client/v0.6.2"
+  },
+  {
+    "tag": "client/v0.6.1",
+    "date": "2026-10-01T18:24:59Z",
+    "url": "https://github.com/moby/moby/releases/tag/client/v0.6.1"
+  },
+  {
+    "tag": "api/v1.56.1",
+    "date": "2026-10-01T17:59:25Z",
+    "url": "https://github.com/moby/moby/releases/tag/api/v1.56.1"
+  },
+  {
+    "tag": "v25.0.18",
+    "date": "2026-09-30T15:54:00Z",
+    "url": "https://github.com/moby/moby/releases/tag/v25.0.18"
+  },
+  {
+    "tag": "docker-v29.8.2",
+    "date": "2026-09-30T20:28:33Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.8.2"
+  },
+  {
+    "tag": "docker-v29.8.1",
+    "date": "2026-09-15T17:05:26Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.8.1"
+  },
+  {
+    "tag": "docker-v29.8.0",
+    "date": "2026-09-03T22:31:49Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.8.0"
+  },
+  {
+    "tag": "client/v0.6.0",
+    "date": "2026-09-03T21:03:01Z",
+    "url": "https://github.com/moby/moby/releases/tag/client/v0.6.0"
+  },
+  {
+    "tag": "api/v1.56.0",
+    "date": "2026-09-03T20:43:14Z",
+    "url": "https://github.com/moby/moby/releases/tag/api/v1.56.0"
+  },
+  {
+    "tag": "docker-v29.7.2",
+    "date": "2026-08-06T10:35:19Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.7.2"
+  },
+  {
+    "tag": "docker-v29.7.1",
+    "date": "2026-07-31T17:36:24Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.7.1"
+  },
+  {
+    "tag": "docker-v29.7.0",
+    "date": "2026-07-30T21:38:11Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.7.0"
+  },
+  {
+    "tag": "client/v0.5.1",
+    "date": "2026-07-27T19:09:03Z",
+    "url": "https://github.com/moby/moby/releases/tag/client/v0.5.1"
+  },
+  {
+    "tag": "docker-v29.6.2",
+    "date": "2026-07-16T16:55:29Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.6.2"
+  },
+  {
+    "tag": "v25.0.17",
+    "date": "2026-08-13T00:25:05Z",
+    "url": "https://github.com/moby/moby/releases/tag/v25.0.17"
+  },
+  {
+    "tag": "docker-v29.6.1",
+    "date": "2026-06-26T12:29:14Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.6.1"
+  },
+  {
+    "tag": "docker-v29.6.0",
+    "date": "2026-06-18T20:43:10Z",
+    "url": "https://github.com/moby/moby/releases/tag/docker-v29.6.0"
+  },
+  {
+    "tag": "client/v0.5.0",
+    "date": "2026-06-18T19:36:11Z",
+    "url": "https://github.com/moby/moby/releases/tag/client/v0.5.0"
+  },
+  {
+    "tag": "api/v1.55.0",
+    "date": "2026-06-18T19:16:53Z",
+    "url": "https://github.com/moby/moby/releases/tag/api/v1.55.0"
+  }
+]
